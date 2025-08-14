@@ -12,7 +12,7 @@ class MyApp(MDApp):
         mydb = mysql.connector.connect(
             host="mysql-179b3d4e-detraismc-b8de.h.aivencloud.com",
             user="avnadmin",
-            passwd="AVNS_Sz-HAXbcvrCVGn92E6H",
+            passwd="",
             port="13492"
         )
         c = mydb.cursor()
@@ -37,7 +37,7 @@ class MyApp(MDApp):
         mydb = mysql.connector.connect(
             host="mysql-179b3d4e-detraismc-b8de.h.aivencloud.com",
             user="avnadmin",
-            passwd="AVNS_Sz-HAXbcvrCVGn92E6H",
+            passwd="",
             port="13492"
         )
         c = mydb.cursor()
@@ -54,7 +54,7 @@ class MyApp(MDApp):
         mydb = mysql.connector.connect(
             host="mysql-179b3d4e-detraismc-b8de.h.aivencloud.com",
             user="avnadmin",
-            passwd="AVNS_Sz-HAXbcvrCVGn92E6H",
+            passwd="",
             port="13492"
         )
         c = mydb.cursor()
